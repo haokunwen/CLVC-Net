@@ -25,6 +25,7 @@
 #### FashionIQ
  
 Create directories `dress/`, `shirt/`, and `toptee/` to save the outputs.
+Note that for the FashionIQ dataset, we first resize the downloaded images follow the [XiaoxiaoGuo](https://github.com/XiaoxiaoGuo/fashion-iq/tree/master/start_kit) by resize_images.py.
  
 ```bash
 # Dress
@@ -72,7 +73,7 @@ python test.py
 ---
 
 ## 3. Checkpoints
-* **Pre-trained models**: [Google Drive Link](https://drive.google.com/file/d/159rBhWyhkLN7sXAi8iyW_ljzFNLJInKa/view?usp=sharing)
+* **Pre-trained models**: [Google Drive Link](https://drive.google.com/file/d/159rBhWyhkLN7sXAi8iyW_ljzFNLJinKa/view?usp=sharing)
 
 ## Citation
  
@@ -82,7 +83,7 @@ If you find this work useful, please cite:
 @inproceedings{wen2021comprehensive,
   title={Comprehensive Linguistic-Visual Composition Network for Image Retrieval},
   author={Wen, Haokun and Song, Xuemeng and Yang, Xin and Zhan, Yibing and Nie, Liqiang},
-  booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  booktitle={Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={1369--1378},
   year={2021}
 }
