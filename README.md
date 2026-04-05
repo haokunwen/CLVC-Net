@@ -1,4 +1,4 @@
-# `Comprehensive Linguistic-Visual Composition Network for Image Retrieval`
+# `Comprehensive Linguistic-Visual Composition Network for Image Retrieval - SIGIR 2021`
 
 ## Authors
 
